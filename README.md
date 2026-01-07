@@ -12,7 +12,7 @@
 
 | 编号 | 名称 | 简介 | 路径 |
 | :--- | :--- | :--- | :--- |
-| 01 | Card Beam Animation | 带有光束流光效果的卡片动画 | [预览](./1-card-beam-animation/src/index.html) / [源码](./1-card-beam-animation/) |
+| 01 | Card Beam Animation | 带有光束流光效果的卡片动画 | [预览](./1-card-beam-animation/dist/index.html) / [源码](./1-card-beam-animation/) |
 
 ## 🚀 如何使用
 
