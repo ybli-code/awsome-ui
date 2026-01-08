@@ -16,6 +16,7 @@
 | 02 | Interactive Swiping Card UI | 可交互的滑动卡片 UI | [预览](https://ybli-code.github.io/awsome-ui/2-interactive-swiping-card-ui/dist/index.html) / [源码](./2-interactive-swiping-card-ui/) |
 | 03 | Liquid Glass | 液态玻璃变形效果 | [预览](https://ybli-code.github.io/awsome-ui/3-liquid-glass/dist/index.html) / [源码](./3-liquid-glass/) |
 | 04 | Neumorphism UI Card | 新拟态 UI 卡片 (Sass) | [预览](https://ybli-code.github.io/awsome-ui/4-neumorphism-ui-card/dist/index.html) / [源码](./4-neumorphism-ui-card/) |
+| 05 | Google Antigravity | 使用现代 CSS 实现的 Google Antigravity 效果 | [预览](https://ybli-code.github.io/awsome-ui/5-index-with-modern-css/dist/index.html) / [源码](./5-index-with-modern-css/) |
 
 ## 🚀 如何使用
 
