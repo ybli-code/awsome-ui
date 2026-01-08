@@ -13,6 +13,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | No. | Name | Description | Path |
 | :--- | :--- | :--- | :--- |
 | 01 | Card Beam Animation | Card animation with beam glowing effect | [Preview](https://ybli-code.github.io/awsome-ui/1-card-beam-animation/dist/index.html) / [Source](./1-card-beam-animation/) |
+| 02 | Interactive Swiping Card UI | Interactive swiping card UI | [Preview](https://ybli-code.github.io/awsome-ui/2-interactive-swiping-card-ui/dist/index.html) / [Source](./2-interactive-swiping-card-ui/) |
 
 ## 🚀 How to Use
 
