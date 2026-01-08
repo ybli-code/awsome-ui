@@ -18,6 +18,7 @@
 | 04 | Neumorphism UI Card | 新拟态 UI 卡片 (Sass) | [预览](https://ybli-code.github.io/awsome-ui/4-neumorphism-ui-card/dist/index.html) / [源码](./4-neumorphism-ui-card/) |
 | 05 | Google Antigravity | 使用现代 CSS 实现的 Google Antigravity 效果 | [预览](https://ybli-code.github.io/awsome-ui/5-index-with-modern-css/dist/index.html) / [源码](./5-index-with-modern-css/) |
 | 06 | WebGL Shader Hero Design | WebGL 和 GLSL 实现的英雄区设计 | [预览](https://ybli-code.github.io/awsome-ui/6-webgl-shader-hero-design/dist/index.html) / [源码](./6-webgl-shader-hero-design/) |
+| 07 | Colored Glowing Edge Card | 彩色发光边缘卡片效果 | [预览](https://ybli-code.github.io/awsome-ui/7-colored-glowing-edge-card/dist/index.html) / [源码](./7-colored-glowing-edge-card/) |
 
 ## 🚀 如何使用
 
