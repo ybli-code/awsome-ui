@@ -2,7 +2,7 @@
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/Jetlab/pen/NPGLLWE](https://codepen.io/Jetlab/pen/NPGLLWE).
+Original URL: [https://codepen.io/ybli-code/pen/jErrWPX](https://codepen.io/ybli-code/pen/jErrWPX).
 
 Interactive Conversion Rate Dashboard Card
 A modern, swipeable dashboard card featuring real-time conversion analytics with smooth animations and intuitive navigation. Perfect for mobile-first data visualization interfaces.
