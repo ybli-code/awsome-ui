@@ -1,0 +1,80 @@
+
+<main id="app">
+
+    <section class="card">
+        
+        <div class="gradient-mask">
+            <!-- 
+                using two layers of mask here, instead of a single
+                mask with a subtract composite, as it costs 2x the performance
+                when animating composite masks 
+            -->
+            <div class="gradient" style="opacity: 0;">
+            </div>
+        </div>
+        
+        <div class="inner">
+            
+            <div role="button" tabindex="0"  class="check" title="click to restart the animation!">
+                <svg tick viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M21.801 10A10 10 0 1 1 17 3.335"/><path d="m9 11l3 3L22 4"/></g></svg>
+                <svg clock viewBox="0 0 24 24"><path fill="currentColor" d="M12,1A11,11,0,1,0,23,12,11,11,0,0,0,12,1Zm0,20a9,9,0,1,1,9-9A9,9,0,0,1,12,21Z"/><rect width="2" height="7" x="11" y="6" fill="currentColor" rx="1"><animateTransform attributeName="transform" dur="9s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/></rect><rect width="2" height="9" x="11" y="11" fill="currentColor" rx="1"><animateTransform attributeName="transform" dur="0.75s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/></rect></svg>
+            </div>
+            
+            <header>
+                <svg viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 18l-6-6l6-6"/></svg>
+                <h2>Gradient Pulse</h2>
+                <svg viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 6L6 18M6 6l12 12"/></svg>
+            </header>
+            
+            <div class="inline-ranges" title="play with the colors!">
+                <input type=range id="h2" min=0 max=360 value=222 />
+                <input type=range id="h1" min=0 max=360 value=255 />
+            </div>
+            
+            <footer class="content">
+                <p>Inspired by the <a href="https://x.com/Jakubantalik/status/1947960379356897396" target="_blank">tweet from @Jakubantalik</a></p>
+            </footer>
+            
+        </div>
+        
+    </section>
+    
+
+</main>
+
+<!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    social icons
+-->
+<a class="social-icon codepen" href="https://codepen.io/simeydotme" title="view my codepens">
+    Made by Simey
+</a>
+
+<a class="social-icon twitter" href="https://twitter.com/simeydotme">
+    <svg viewBox="0 0 24 24">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z"></path>
+    </svg>
+</a>
+<a class="social-icon github" href="https://github.com/simeydotme">
+    <svg viewBox="0 0 24 24">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
+    </svg>
+</a>
+
+
+
+<svg class="arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M0 55.2L0 426c0 12.2 9.9 22 22 22c6.3 0 12.4-2.7 16.6-7.5L121.2 346l58.1 116.3c7.9 15.8 27.1 22.2 42.9 14.3s22.2-27.1 14.3-42.9L179.8 320l118.1 0c12.2 0 22.1-9.9 22.1-22.1c0-6.3-2.7-12.3-7.4-16.5L38.6 37.9C34.3 34.1 28.9 32 23.2 32C10.4 32 0 42.4 0 55.2z"/></svg>

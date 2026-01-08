@@ -19,6 +19,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | 05 | Google Antigravity | Google Antigravity effect using modern CSS | [Preview](https://ybli-code.github.io/awsome-ui/5-index-with-modern-css/dist/index.html) / [Source](./5-index-with-modern-css/) |
 | 06 | WebGL Shader Hero Design | WebGL and GLSL hero section design | [Preview](https://ybli-code.github.io/awsome-ui/6-webgl-shader-hero-design/dist/index.html) / [Source](./6-webgl-shader-hero-design/) |
 | 07 | Colored Glowing Edge Card | Colored glowing edge card effect | [Preview](https://ybli-code.github.io/awsome-ui/7-colored-glowing-edge-card/dist/index.html) / [Source](./7-colored-glowing-edge-card/) |
+| 08 | Gradient Pulse Animation | Gradient Pulse animation effect | [Preview](https://ybli-code.github.io/awsome-ui/8-gradient-pulse-animation/dist/index.html) / [Source](./8-gradient-pulse-animation/) |
 
 ## 🚀 How to Use
 
