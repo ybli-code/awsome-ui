@@ -21,6 +21,7 @@
 | 07 | Colored Glowing Edge Card | 彩色发光边缘卡片效果 | [预览](https://ybli-code.github.io/awsome-ui/7-colored-glowing-edge-card/dist/index.html) / [源码](./7-colored-glowing-edge-card/) |
 | 08 | Gradient Pulse Animation | 渐变脉冲动画效果 | [预览](https://ybli-code.github.io/awsome-ui/8-gradient-pulse-animation/dist/index.html) / [源码](./8-gradient-pulse-animation/) |
 | 09 | Mega-Bot AI | AI 聊天机器人界面 | [预览](https://ybli-code.github.io/awsome-ui/9-mega-bot-ai/dist/index.html) / [源码](./9-mega-bot-ai/) |
+| 10 | Scroll to Bloom | 滚动绽放效果 | [预览](https://ybli-code.github.io/awsome-ui/10-scroll-to-bloom/dist/index.html) / [源码](./10-scroll-to-bloom/) |
 
 ## 🚀 如何使用
 

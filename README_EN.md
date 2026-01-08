@@ -21,6 +21,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | 07 | Colored Glowing Edge Card | Colored glowing edge card effect | [Preview](https://ybli-code.github.io/awsome-ui/7-colored-glowing-edge-card/dist/index.html) / [Source](./7-colored-glowing-edge-card/) |
 | 08 | Gradient Pulse Animation | Gradient Pulse animation effect | [Preview](https://ybli-code.github.io/awsome-ui/8-gradient-pulse-animation/dist/index.html) / [Source](./8-gradient-pulse-animation/) |
 | 09 | Mega-Bot AI | Mega-Bot AI Chat Interface | [Preview](https://ybli-code.github.io/awsome-ui/9-mega-bot-ai/dist/index.html) / [Source](./9-mega-bot-ai/) |
+| 10 | Scroll to Bloom | Scroll to bloom effect | [Preview](https://ybli-code.github.io/awsome-ui/10-scroll-to-bloom/dist/index.html) / [Source](./10-scroll-to-bloom/) |
 
 ## 🚀 How to Use
 
