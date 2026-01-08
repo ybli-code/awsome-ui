@@ -17,6 +17,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | 03 | Liquid Glass | Liquid glass deformation effect | [Preview](https://ybli-code.github.io/awsome-ui/3-liquid-glass/dist/index.html) / [Source](./3-liquid-glass/) |
 | 04 | Neumorphism UI Card | Neumorphism UI Card Module (Sass) | [Preview](https://ybli-code.github.io/awsome-ui/4-neumorphism-ui-card/dist/index.html) / [Source](./4-neumorphism-ui-card/) |
 | 05 | Google Antigravity | Google Antigravity effect using modern CSS | [Preview](https://ybli-code.github.io/awsome-ui/5-index-with-modern-css/dist/index.html) / [Source](./5-index-with-modern-css/) |
+| 06 | WebGL Shader Hero Design | WebGL and GLSL hero section design | [Preview](https://ybli-code.github.io/awsome-ui/6-webgl-shader-hero-design/dist/index.html) / [Source](./6-webgl-shader-hero-design/) |
 
 ## 🚀 How to Use
 
