@@ -22,6 +22,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | 08 | Gradient Pulse Animation | Gradient Pulse animation effect | [Preview](https://ybli-code.github.io/awsome-ui/8-gradient-pulse-animation/dist/index.html) / [Source](./8-gradient-pulse-animation/) |
 | 09 | Mega-Bot AI | Mega-Bot AI Chat Interface | [Preview](https://ybli-code.github.io/awsome-ui/9-mega-bot-ai/dist/index.html) / [Source](./9-mega-bot-ai/) |
 | 10 | Scroll to Bloom | Scroll to bloom effect | [Preview](https://ybli-code.github.io/awsome-ui/10-scroll-to-bloom/dist/index.html) / [Source](./10-scroll-to-bloom/) |
+| 11 | Organic AI Orb | Organic AI Orb animation | [Preview](https://ybli-code.github.io/awsome-ui/11-organic-ai-orb/dist/index.html) / [Source](./11-organic-ai-orb/) |
 
 ## 🚀 How to Use
 
