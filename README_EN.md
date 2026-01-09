@@ -23,6 +23,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | 09 | Mega-Bot AI | Mega-Bot AI Chat Interface | [Preview](https://ybli-code.github.io/awsome-ui/9-mega-bot-ai/dist/index.html) / [Source](./9-mega-bot-ai/) |
 | 10 | Scroll to Bloom | Scroll to bloom effect | [Preview](https://ybli-code.github.io/awsome-ui/10-scroll-to-bloom/dist/index.html) / [Source](./10-scroll-to-bloom/) |
 | 11 | Organic AI Orb | Organic AI Orb animation | [Preview](https://ybli-code.github.io/awsome-ui/11-organic-ai-orb/dist/index.html) / [Source](./11-organic-ai-orb/) |
+| 12 | Elastic Checkboxes | Elastic Checkboxes animation | [Preview](https://ybli-code.github.io/awsome-ui/12-elastic-checkboxes/dist/index.html) / [Source](./12-elastic-checkboxes/) |
 
 ## 🚀 How to Use
 

@@ -23,6 +23,7 @@
 | 09 | Mega-Bot AI | AI 聊天机器人界面 | [预览](https://ybli-code.github.io/awsome-ui/9-mega-bot-ai/dist/index.html) / [源码](./9-mega-bot-ai/) |
 | 10 | Scroll to Bloom | 滚动绽放效果 | [预览](https://ybli-code.github.io/awsome-ui/10-scroll-to-bloom/dist/index.html) / [源码](./10-scroll-to-bloom/) |
 | 11 | Organic AI Orb | 有机态 AI 光球动画 | [预览](https://ybli-code.github.io/awsome-ui/11-organic-ai-orb/dist/index.html) / [源码](./11-organic-ai-orb/) |
+| 12 | Elastic Checkboxes | 弹性复选框动画 | [预览](https://ybli-code.github.io/awsome-ui/12-elastic-checkboxes/dist/index.html) / [源码](./12-elastic-checkboxes/) |
 
 ## 🚀 如何使用
 
