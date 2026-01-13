@@ -25,6 +25,7 @@
 | 11 | Organic AI Orb | 有机态 AI 光球动画 | [预览](https://ybli-code.github.io/awsome-ui/11-organic-ai-orb/dist/index.html) / [源码](./11-organic-ai-orb/) |
 | 12 | Elastic Checkboxes | 弹性复选框动画 | [预览](https://ybli-code.github.io/awsome-ui/12-elastic-checkboxes/dist/index.html) / [源码](./12-elastic-checkboxes/) |
 | 13 | The Grand Finale 2026 | 2026 新年倒计时与烟花庆典效果 | [预览](https://ybli-code.github.io/awsome-ui/13-the-grand-finale-2026/dist/index.html) / [源码](./13-the-grand-finale-2026/) |
+| 14 | Vertical Tabs | 垂直标签页切换界面 | [预览](https://ybli-code.github.io/awsome-ui/14-vertical-tabs/dist/index.html) / [源码](./14-vertical-tabs/) |
 
 ## 🚀 如何使用
 

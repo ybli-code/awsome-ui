@@ -25,6 +25,7 @@ This project aims to collect excellent and beautiful UI design showcases. Each c
 | 11 | Organic AI Orb | Organic AI Orb animation | [Preview](https://ybli-code.github.io/awsome-ui/11-organic-ai-orb/dist/index.html) / [Source](./11-organic-ai-orb/) |
 | 12 | Elastic Checkboxes | Elastic Checkboxes animation | [Preview](https://ybli-code.github.io/awsome-ui/12-elastic-checkboxes/dist/index.html) / [Source](./12-elastic-checkboxes/) |
 | 13 | The Grand Finale 2026 | Immersive New Year 2026 countdown with fireworks | [Preview](https://ybli-code.github.io/awsome-ui/13-the-grand-finale-2026/dist/index.html) / [Source](./13-the-grand-finale-2026/) |
+| 14 | Vertical Tabs | Vertical tabs switching interface | [Preview](https://ybli-code.github.io/awsome-ui/14-vertical-tabs/dist/index.html) / [Source](./14-vertical-tabs/) |
 
 ## 🚀 How to Use
 
